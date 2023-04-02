@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Android Engineer</h1>
+<h1 align="center">Hi, I'm a Senior Android Engineer 👋🏻</h1>
 <h3 align="center">Passionate about creating mobile experiences</h3>
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed3elshaer" alt="ahmed3elshaer" /></a> </p>)
