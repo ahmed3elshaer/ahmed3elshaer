@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmed3elshaer@gmail.com**
 
-- ⚡ Fun fact **I believed when I was young if I ate a seed of a watermelon it's going to grow as a tree inside my stomach**
+- ⚡ Fun fact **When I was a kid, I had this crazy idea that if I swallowed a watermelon seed, it would sprout into a huge tree in my belly. 🍉🌳**
 
 <h3 align="left">Connect with me:</h3>
 
