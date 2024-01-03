@@ -2,6 +2,8 @@
 <h3 align="center">Passionate about creating mobile experiences</h3>
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed3elshaer" alt="ahmed3elshaer" /></a> </p>)
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 
 - 💬 Ask me about **Kotlin, Kotlin Multiplatform, Android, Jetpack Compose**
 
