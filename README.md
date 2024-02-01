@@ -1,5 +1,5 @@
 <h1 align="center">I'm an Android Engineer👋🏻</h1>
-<h3 align="center">Passionate about creating mobile experiences</h3>
+<h3 align="center">With over 7 years of Android experience, I have consistently delivered impactful results through innovative solutions and use of Kotlin, multiplatform and Compose. My contributions have led to a 30% increase in profits and 50% cost savings in 2 months. In addition, I have published over 12 applications with 500,00+ active users.</h3>
 
 [//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed3elshaer" alt="ahmed3elshaer" /></a> </p>)
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
