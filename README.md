@@ -1,27 +1,3 @@
-<h3 align="left">Connect with me:</h3>
-
-<p>
-  <a href="https://linkedin.com/in/ahmed3elshaer" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png"
-         alt="ahmed3elshaer"
-         height="40"
-         width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/ahmed3elshaer"
-     target="blank">
-    <img
-         src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png"
-         alt="ahmed3elshaer" height="40" width="40"/>
-  </a>
-   <a href="mailto: ahmed3elshaer@gmail.com"
-     target="blank">
-    <img
-         src="https://cdn-icons-png.flaticon.com/512/9068/9068877.png"
-         alt="ahmed3elshaer" height="40" width="40"/>
-  </a>
-</p>
-
-
 🧬 Projects
 ------------
 | Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Demo                                                                            |
