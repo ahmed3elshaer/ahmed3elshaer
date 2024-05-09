@@ -1,16 +1,3 @@
-<h1 align="center">I'm an Android Engineer👋🏻</h1>
-<h3 align="center">With over 7 years of Android experience, I have consistently delivered impactful results through innovative solutions and use of Kotlin, multiplatform and Compose. My contributions have led to a 30% increase in profits and 50% cost savings in 2 months. In addition, I have published over 12 applications with 500,00+ active users.</h3>
-
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed3elshaer" alt="ahmed3elshaer" /></a> </p>)
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
-
-- 💬 Ask me about **Kotlin, Kotlin Multiplatform, Android, Jetpack Compose**
-
-- 📫 How to reach me **ahmed3elshaer@gmail.com**
-
-- ⚡ Fun fact **When I was a kid, I had this crazy idea that if I swallowed a watermelon seed, it would sprout into a huge tree in my belly. 🍉🌳**
-
 <h3 align="left">Connect with me:</h3>
 
 <p>
@@ -34,64 +21,6 @@
   </a>
 </p>
 
-💻 I love working on
-------------
-
-<p>
-  <a href="https://developer.apple.com/passkeys/"
-     target="_blank"
-     rel="noreferrer">
-       <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/kotlin-2.svg" 
-            alt="figma" 
-            width="40"
-            height="40"
-        /> 
-  </a>
- <a href="https://developer.android.com/"
-     target="_blank"
-     rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/349588/android.svg"
-       alt="android"
-       width="40"
-       height="40"/>
-  </a>
-  <a href=""
-     target="_blank"
-     rel="noreferrer">
-       <img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" 
-            alt="figma" 
-            width="40"
-            height="40"
-        /> 
-  </a>
-  <a href=""
-     target="_blank"
-     rel="noreferrer">
-       <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-128x128_2x.png" 
-            alt="figma" 
-            width="40"
-            height="40"
-        /> 
-  </a>
-  <a href="https://developer.apple.com/passkeys/"
-     target="_blank"
-     rel="noreferrer">
-       <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" 
-            alt="figma" 
-            width="40"
-            height="40"
-        /> 
-  </a>
-  <a href="https://developer.apple.com/passkeys/"
-     target="_blank"
-     rel="noreferrer">
-       <img src="https://developer.apple.com/assets/elements/icons/passkeys/passkeys-64x64_2x.png" 
-            alt="figma" 
-            width="40"
-            height="40"
-        /> 
-  </a>
-</p>
 
 🧬 Projects
 ------------
@@ -121,6 +50,7 @@
 
 📝‍ Blogs
 ------------
+- [Create Gemini loading animation using Jetpack compose](https://medium.com/proandroiddev/create-gemini-loading-animation-using-jetpack-compose-8cdca60c1f0e)
 - [How “Either” type will make you stop using “Result” class — Functional Programming in Kotlin](https://medium.com/p/d755ea7690db)
 - [Don’t get stuck (An Advice in Learning Programming)](https://medium.com/@Ahmed3Elshaer/dont-get-stuck-an-advice-in-learning-programming-f0d0be61b95c)
 - [Publishing Android library to Github packages with snapshot, dynamic versioning and product flavors](https://blog.trella.app/tech-edu/trella-technical-education-1-android-multi-module-multi-apps-structure/)
